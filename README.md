@@ -1,7 +1,7 @@
 # Amazon-Fine-Food-Reviews-Topic-Modeling
 Topic modeling and text summarization of Amazon food reviews using machine learning and deep learning techniques.
 
-**Project Overview**\\
+**Project Overview**\n
 In the age of digital consumerism, online reviews play a crucial role in shaping product perception and influencing purchasing decisions. This project focuses on topic modeling and text summarization of Amazon Fine Food Reviews, leveraging machine learning and deep learning techniques to extract meaningful insights from large volumes of textual data.
 
 The primary objective is to analyze customer feedback to identify common themes, sentiments, and trends within food reviews, thereby enhancing the understanding of consumer preferences and improving product offerings.
